@@ -767,7 +767,7 @@
 		$actions = array(
 			'multiactions' => array(
 				'keycols' => array('table' => 'relname'),
-				'url' => 'tables.php',
+				'url' => 'display.php',
 				'default' => 'analyze',
 			),
 			'browse' => array(
